@@ -1,9 +1,10 @@
-package pe.com.peruapps.testexampleapp
+package pe.com.peruapps.testexampleapp.di
 
 import dagger.Module
 import dagger.Provides
 import pe.com.peruapps.testexampleapp.Constants.HELLO
 import pe.com.peruapps.testexampleapp.Constants.LOVE
+import pe.com.peruapps.testexampleapp.models.Info
 import javax.inject.Named
 
 /**

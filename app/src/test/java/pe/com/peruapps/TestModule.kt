@@ -1,7 +1,7 @@
 package pe.com.peruapps
 
-import pe.com.peruapps.testexampleapp.Info
-import pe.com.peruapps.testexampleapp.Module
+import pe.com.peruapps.testexampleapp.models.Info
+import pe.com.peruapps.testexampleapp.di.Module
 
 /**
  * Created by Rodrigo Ramos on 03/01/2020.

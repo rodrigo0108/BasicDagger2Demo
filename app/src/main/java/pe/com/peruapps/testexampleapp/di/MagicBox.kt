@@ -1,6 +1,7 @@
-package pe.com.peruapps.testexampleapp
+package pe.com.peruapps.testexampleapp.di
 
 import dagger.Component
+import pe.com.peruapps.testexampleapp.activities.MainActivity
 
 
 /**

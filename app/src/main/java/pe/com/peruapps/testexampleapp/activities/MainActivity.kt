@@ -1,4 +1,4 @@
-package pe.com.peruapps.testexampleapp
+package pe.com.peruapps.testexampleapp.activities
 
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
@@ -6,6 +6,9 @@ import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
 import pe.com.peruapps.testexampleapp.Constants.HELLO
 import pe.com.peruapps.testexampleapp.Constants.LOVE
+import pe.com.peruapps.testexampleapp.models.Info
+import pe.com.peruapps.testexampleapp.R
+import pe.com.peruapps.testexampleapp.di.DaggerMagicBox
 import javax.inject.Inject
 import javax.inject.Named
 

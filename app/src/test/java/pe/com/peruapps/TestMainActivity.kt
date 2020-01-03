@@ -1,15 +1,11 @@
 package pe.com.peruapps
 
-import dagger.Component
 import junit.framework.Assert.assertEquals
 import org.junit.Before
 import org.junit.Test
 import pe.com.peruapps.testexampleapp.Constants.HELLO
 import pe.com.peruapps.testexampleapp.Constants.LOVE
-import pe.com.peruapps.testexampleapp.DaggerMagicBox
-import pe.com.peruapps.testexampleapp.Info
-import pe.com.peruapps.testexampleapp.MagicBox
-import pe.com.peruapps.testexampleapp.Module
+import pe.com.peruapps.testexampleapp.models.Info
 import javax.inject.Inject
 import javax.inject.Named
 

@@ -1,4 +1,4 @@
-package pe.com.peruapps.testexampleapp
+package pe.com.peruapps.testexampleapp.models
 
 
 /**

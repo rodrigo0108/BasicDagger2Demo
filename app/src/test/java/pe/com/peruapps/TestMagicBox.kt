@@ -1,8 +1,8 @@
 package pe.com.peruapps
 
 import dagger.Component
-import pe.com.peruapps.testexampleapp.MagicBox
-import pe.com.peruapps.testexampleapp.Module
+import pe.com.peruapps.testexampleapp.di.MagicBox
+import pe.com.peruapps.testexampleapp.di.Module
 
 /**
  * Created by Rodrigo Ramos on 03/01/2020.
